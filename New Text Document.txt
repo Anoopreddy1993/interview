@@ -1,0 +1,472 @@
+Extensively used MongoDB, HBase & CouchDB queries to query or search as per business requirement.
+Git, SVN, Maven, Ant, Jenkins, Chef, Tomcat, Jira, JBoss Application Servers, Apache Tomcat, ELK, Agile/Scrum, SDLC, Windows, Docker, Nginx, AWS EC-2, Route 53, S3, VPC, ECS, Elastic Beanstalk, SQS, Autoscaling, ELB, Shell Scripts, Python, Campaign Packaging Tool, Unix/ Linux environment.
+https://www.filmlinks4u.is/kirik-party-2016-kannada-full-movie-watch-online-free.html
+
+
+Experience on Mongo DB, Cassandra and various NoSQL databases like Hbase, Neon, and Redis etc 
+
+
+Converted existing terraform modules that had version conflicts to utilize cloud formation during terraform deployments to enable more control or missing capabilities 
+Converting existing AWS infrastructure to server less architecture (AWS Lambda)deployed via terraform or AWS Cloud formation. 
+Worked with Python, Flask, Jenkins, Terraform and incorporating those three services for infrastructure automation project. 
+Wrote deployment recipes for infrastructure management (Terraform) 
+Developed infrastructure as code with Terraform to deploy VMware and AWS infrastructure.
+Developed Python application to generate dynamic inventory for Ansible from Terraform state
+Created a WordPress environment on AWS using Terraform and Chef, which consists of custom VPC, S3, RDS, EC2, Public and Private subnets, Security Groups, Auto Scaling Groups, ELB, Route53.
+Setup Elastic search cluster using Terraform scripts to block all the Spam and Phishing attack.
+Spinning up AWS resources by using terraform. Deploying a multi-node application to AWS using Terraform and Chef.
+Proficient with container systems like Docker and container orchestration like EC2 Container Service, Kubernetes, worked with Terraform
+Created a WordPress environment on AWS using Terraform and Chef, which consists of custom VPC, S3, RDS, EC2, Public and Private subnets, Security Groups, Auto Scaling Groups, ELB, Route53.
+Setup Elastic search cluster using Terraform scripts to block all the Spam and Phishing attacks. Spinning up AWS resources by using terraform. 
+
+Install, configure, and troubleshoot Red Hat Enterprise Linux. Well-versed in AWS Elastic Beanstalk for application deployments and operated on AWS lambda with Amazon kinesis. 
+Developed and utilized CloudWatch alerts in auto scaling launch configurations, implemented and supported monitoring and alerting of production and corporate servers/storage via AWS CloudWatch. 
+Automated log rotation of multiple logs from web serves by writing scripts in Python. 
+Created Infrastructure Git repositories for Terraform in order to launch the stacks. 
+Supported design and deployment of applications by employing AWS stack (EC2, Route 53, S3, RDS, Dynamo DB, SNS, SQS, IAM) with a focus on high availability, fault tolerance, and auto scaling in AWS CloudFormation.
+
+
+
+Deployed J2EE applications to Application servers in an Agile continuous integration environment and also automated the whole process. Build scripts using ANT and MAVEN build tools in Jenkins, Sonar to move from one environment to other environments. 
+
+
+Constructed/Architected a Continuous Integration CI Server and Implemented Build/Deploy automation Server utilizing CI Technologies like Jenkins/Hudson, Subversion, Maven, MS Build, Ant, Sonar, JIRA and Selenium for both .NET and JAVA Applications on mixed OS (Windows/Linux/Unix).   
+Experience in migrating on premise to Windows Azure in DR on cloud using Azure Recovery Vault and Azure backups.
+Creating Gateways for Virtual Network to Virtual Network and Site to Site specific VPN connectivity on Azure environments. 
+* Created Domain Controller in one of the Virtual Machine and added users to Domain Controller. 
+* Implemented VNet Peering between the Virtual Machines within the same Location. 
+* Enabling Disk Encryption using Certificates for IaaS Virtual machines for OS and Data Volumes. 
+* PowerShell scripting for Automation - Creating VM's, Virtual Networking, VPN, Key Vault, Load balancer and Disk Encryption. 
+* Deployed Websites using IIS Web Server and controlled Traffic flow using Internal and External Load Balancer. 
+* Implemented Next Gen Firewall (Barracuda) as a Security layer between Internet and On-Prem. 
+* Developing and implementing backup and disaster recovery protocols. 
+* Knowledge on Azure AD bulk User, Group and assigning Users to SaaS applications. 
+
+
+Experience in using Dockers Swarm and deployed spring boot applications. 
+Implemented exception handling in Java Spring Boot for REST API, by making use of ExceptionHandler and ControllerAdvice annotations. 
+Evaluated Kubernetes for Docker container orchestration and worked in using Dockers Swarm and deployed spring boot applications. 
+
+
+Working as a Sr. Devops Engineer for one of the biggest and most complex Reatil system Walmart.com. I use Subversion, CVS, Maven, , ant, Jenkins & Jira as tools for day to day build & release cycles. Responsible for Deployment and maintenance of different QA & UAT environments.According to the developer requirement using the ansible we deploy the application into the servers.W
+* Enabling Single Sign On (SSO) feature for existing application integrating with Azure Active Directory. 
+* Migrating Existing Active Directory and Exchange users to Microsoft Azure AD using Azure AD Connect, Active Directory Federation Service ADFS and DirSync tools. 
+* Configured Firewall logging, DMZs& related security policies& monitoring. 
+* Implementing and managing global intranet project using Scrum (Agile framework), Office 365, Microsoft Azure, Hybrid Active Directory, CSOM, PowerShell and SharePoint Infrastructure Management tools. 
+* Azure PaaS Solutions - (DR on cloud using Azure Recovery Vault, Azure Web and Worker Roles, SQL Azure, Azure Storage). 
+* Implemented a production ready, load balanced, highly available, fault tolerant Kubernetes infrastructure.
+
+
+Maintained the user accounts (IAM), RDS, Route 53, VPC, RDB, Dynamo DB, SES, SQS and SNS services in AWS cloud.  
+Experienced with Data management in RDS (PostgreSQL) and NoSQL (Dynamo DB) respectively.
+
+
+Windows 2008 R2/2012 R2, 2016 servers, Linux, Centos 6.0, SQL Server 2008/2012, Microsoft Azure/Cloud environment (IaaS, PaaS, SaaS), Barracuda Next Gen Firewall, AZ Copy, MVMC, AD, ADFS, Kubernetes, Chef, puppet, Backup, WebApps, Office 365.
+
+Creation and maintenance of content for the Ansible community and implementation of Ansible modules based on customer and community requirements. 
+
+
+Experience in using Docker and setting Azure Container Registry with Docker and Docker-compose and actively involved in deployments on Docker using Kubernetes. 
+Experience in writing playbooks for Ansible and deploying applications using Ansible.
+Experienced with Configuration Management automation tool Ansible in integrating Ansible
+YAML Scripts.
+Hands on experience in writing Ansible scripts and used Ansible for configure Tomcat servers
+and maintenance.
+
+
+Added real time event streaming product Alooma to our tech stack, adding native data source connectors, saving substantial engineering time, and adding real time data streaming to our data warehouse Snowflake. 
+
+
+  Experience with containerization and orchestration technologies like Kubernetes, Docker.
+
+Support BI data pipelines for reporting tool Looker, which utilizes our data warehouse product Snowflake.
+Automated deployments and reports among Application, Web, SQL, Cognos servers
+
+Worked with the retail team to initiate the Bamboo GO-CD migration for AOS environments. 
+
+Setup new Servers from scratch (OS Installation, Raid Configetc)/ Create Product Certification/QA/Dev Environments for our Product Support Matrix that includes Windows, RHEL, Solaris and App Servers like Web Logic, Web Sphere and JBoss, Oracle Databases and other Tools like Cognos etc. Tools being used are Kick start, KVM etc. 
+
+
+Written Kubernetes YAML files for developers to manually deploy in the cluster.
+Troubleshooted and resolved Build failures due to infrastructure issues reduced by 95% stabilizing the build process. 
+
+
+Have worked on various environments like DEV/TEST/UAT/PROD with various version of Kubernetes 
+
+Managed Kubernetes charts using Helm and creating reproducible builds of the Kubernetes applications, managed Kubernetes manifest files and Managed releases of Helm packages.
+
+Deployed production-ready Kubernetes Clusters on top of Amazon EC2 instances using KOPS. 
+Automated deployments, scaling, and operations of application containers across clusters of hosts, provided container-centric infrastructure by Kubernetes.
+
+
+Hands on Experience in Launching AWS resources, defining network interfaces and attaching one or more network interfaces to various instances using VPC. 
+Experience in building servers using AWS importing volumes, launching EC2, RDS, S3, creating security groups, auto-scaling, load balancers (ELBs) in the defined virtual private connection and VPN. 
+
+• Managed end-to-end Realtime analytics platform handling events which utilized various Docker containers and AWS services such as S3, RDS, SQS and Redshift.   
+
+Hands on experience guiding for their data migration to Snowflake.
+Experience in branching, tagging, releasing and maintaining the versions across the environments using version control systems like GIT, GITHUB, SVN on Linux and Windows platforms. 
+Experience in implementing Docker for wrapping up the final code and setting up development and testing environment using Docker Hub, Docker swarm and Docker container Network.
+Configured AWS Identity and Access Management (IAM) users and groups for improved login authentication. 
+Extensively worked on JENKINS for Continuous Integration (CI) and for End-to-End automation for all build and deployments
+Used Kubernetes to provide a platform for automating deployment, scaling, and operations of application containers across clusters of hosts and managed containerized applications using its 
+nodes, Config Maps, Selectors and Services. 
+• Worked on Docker Container to create Docker Images for different environments. 
+• Experience working on Docker Hub, creating Docker images and handling multiple images primarily for middleware installations and domain configurations.   
+
+Completed assessment and database strategy for AWS public Cloud. Recommended to use Redshift and Snowflake.
+
+
+Used security groups, network ACLs, Internet Gateways, NAT instances and Route tables to ensure a secure zone for organizations in AWS public cloud. 
+• On boarded and migrated test and staging use cases for applications to AWS cloud with public and private IP ranges to increase development productivity by reducing test-run times. 
+• Created monitors, alarms and notifications for EC2 hosts using Cloud Watch. 
+• Implemented and maintained Chef Configuration management spanning several environments in VMware and the AWS cloud. 
+• Working on Multiple AWS instances, set the security groups, Elastic Load Balancer and AMIs, Auto scaling to design cost effective, fault tolerant and highly available systems. 
+• Creating S3 buckets and also managing policies for S3 buckets and Utilized S3 bucket and Glacier for Archival storage and backup on AWS.   
+EC2, VPC, ELB, S3, RDS, Cloud Trail and Route 53), GIT, VPC, Route53, EBS, SQL, ELB, Cloud watch, CloudFormation, Docker, Jira, AWS CLI, AWS Auto Scaling, 
+
+Used Ansible and Ansible Tower as Configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manage changes.
+Ø  Experience with Ansible Tower to manage Multiple Nodes and Manage Inventory for different Environments.
+Used Ansible Playbooks to setup Continuous Delivery Pipeline. Have written playbooks for the GitHub Enterprise Upgrade
+Developed full stack solutions for HPE's Stackato 4.0, a container native multi-iaas application platform.
+
+Supports Web Application Firewall to provide the application security for a leading financial based client & Web Application Scans against OWASP vulnerabilities.
+
+Installing, configuring and maintaining Continuous Integration, Automation and Configuration Management tools to make the Openshift cloud setup. 
+Used Docker and OpenShift to manage micro services for testing and CLI tool to communicate with openshift platform.
+Used openshift platform to build the PAAS applications. 
+Used S2I (source to image) to build and deploy the applications in Openshift.
+Responsible for configuring the apps to OpenShift v3 and containerization of apps using docker.
+Migrating the version controlling systems like SVN, Git and Created the hooks in codehub for automated build and configured the Jenkins to kick off the builds for extracted the war file and deployed in the application to DEV server like apache tomcat and openshift server.     
+
+
+
+
+Experience in building private cloud infrastructure of OpenStack, deploying through puppet and maintaining them in production. 
+• Solid foundation on OpenStack Infrastructure as a service (IaaS) and cloud computing concepts. 
+• Deployed OpenStack icehouse, juno, kilo, liberty releases in a multimode environment manually. 
+Deploying the OpenStack components on multimode with High availability environment. 
+• Integrated OpenStack (Ice house) with OpenStack to create software-Defined-Networking tenant and service provider network and routers. 
+• Installation And Configuration of SDN and NFV Solutions ( Cloud- Based Solutions) and integration of SDN and NFV solution. 
+• Worked with Client's OpenStack cloud, created instances using nova client, setting security and deploy applications and brought them in to production after QA testing. 
+
+I've supported fortune 50 companies in both implementation and ongoing usage of HPE Helion OpenStack and HPE Stackato. This includes the underlying 
+technologies- specifically the modules of OpenStack as of HOS versions 2.x and 3.x, as well as Stackato versions 3.4 through current, using docker 1.8.x and git 
+
+Responsibilities: 
+• Participated in requirement gathering and analysis phase of the project in documenting the business requirements by conducting meetings with various business users. 
+• Worked with a team of developers on python applications for RISK management. 
+• Made Django web based apps for various bank applications. 
+• Designed the architecture of the hardware environments and methodology of the code. 
+• Experienced in Agile Methodologies and SCRUM Process. 
+• Involved in entire lifecycle of the projects including Design, Development, and Deployment, Testing and Implementation and support. 
+• Used CVS SVN to resolve and coding the work on Python. 
+• Performed pytest and unit test on them. Extracted XML code from script for testing. 
+• Created database using SQL, wrote several queries to extract/store data. 
+• Used Pandas library for statistical analysis. 
+• Used Numpy for Numerical analysis for Interest calculations. 
+ 
+Environment: Python 2.6, Django, MySQL, Java, XML, Perl, SVN, UNIX, Apache Tomcat 6.0, MS SQL server 2002, SQL.
+
+
+
+Key duties and responsibility include the provision of information technology infrastructure engineering, design, integration and consulting services to a government agency. 
+• Utilized Oracle Solaris and RedHa. Created a uniform foundation for the deployment of application servers in both Physical and Virtual enterprise environments 
+• Daily monitoring and troubleshooting of enterprise server, network and security concerns 
+• Perform software installations and upgrades to Linux systems and maintaining them in accordance with established policies, procedures and service level agreements. 
+• Created virtual machines and configured them to use resources efficiently. 
+• Installed and Configured web application servers and assigned a needed ports based on the organization requirement. 
+• Setup and administered network file system (NFS) to share data with Linux and across widow environment. 
+• Setup backup policies and backup data using Symantec Netbackup foundation 
+• Respond and assist end user's questions in a timely manner. 
+• Establish records and maintain organization datacenter inventory as well as other supplies and assets. 
+• Created and managed approved user accounts. 
+• Demonstrate high level performance in management and task prioritization. 
+• Creating, cloning Linux Virtual Machines, templates using VMware ESX 4.x, 5.x. 
+• Performing capacity analysis, monitoring and controlling disk space usage on systems 
+• Monitoring system activities and fine-tuning system parameters and configurations to optimize performance and ensuring security of systems 
+• Install, configure, and troubleshoot enterprise-wide Apache web servers and Tomcat application containers in a large Red Hat /CentOS environment 
+• Deploy, upgrade, and maintain application and web servers 
+• Designing Firewall rules for new servers to enable communication with application 
+• Setting up network environments using TCP/IP, NIS, NFS, DNS, VSFTP and DHCP 
+• Setting up user and group login ID's, printing parameters, network configuration, password, resolving permissions and access related issues via ACL 
+Environment: Redhat Linux, VMware ESXI Veritas volume manager, Apache, SSH, Windows server R2, Active Directory.
+
+
+Wrote several Ansible playbooks for the automation that was defined through tasks using YAML format and run Ansible Scripts to provision Dev servers. 
+? Used Ansible Control server to deploy plays and playbooks to the machines and systems in the inventory. 
+? Deployed the Java applications into web application servers like JBoss. 
+? Wrote Ansible Playbooks in Yaml to manage Configurations, Orchestrations and deployments to remote machines. 
+? Used Ansible to document infrastructure and application dependencies into version control. 
+? Provisioned load balancer, auto-scaling group and launch configuration for microservices using Ansible 
+? Developed an Ansible role for Zabbix-agent which will be integrated into the to the CI/CD pipeline. 
+? Responsible for on boarding Application teams to build and deploy their code using GitHub, Jenkins and Ansible.
+
+AWSAccessKeyId=AKIAJ5ZS3NX6X3T5EGAQ
+AWSSecretKey=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
+
+
+
+bro dustbins avaru pettaledu nduku
+nannu esukunnadu
+
+
+Implemented workflow actions to drive troubleshooting across multiple event types in Splunk. 
+Designing, supporting and maintaining Splunk cluster infrastructure in a highly available, geo-redundant configuration. 
+
+Experience in working with Splunk authentication and permissions and having significant 
+experience in supporting large scale Splunk deployments.
+
+Created different Docker container images for fullstack implementation.
+
+
+Experience in managing Ansible Playbooks with Ansible roles, group variables and inventory files and copy and remove files on remote systems using file module. 
+? Expertise with configuration management automation tool Ansible and has worked on integrating Ansible. 
+? Experienced in developing Ansible roles and Ansible Playbooks for the server configuration. 
+? Experience in working with GIT to store the code and integrated it to Ansible Tower to deploy the playbook. 
+? Hands-on experience on Ansible and Ansible Tower as Configuration management tool, to automate repetitive tasks, quickly deploys critical applications, and proactively manages change. 
+? Implemented Infrastructure automation through Ansible for auto provisioning, code deployments, software installation and configuration updates. 
+? Experience in working with GIT to store the code and integrated it to Ansible Tower to deploy the playbook. 
+? Wrote several Ansible playbooks for the automation that was defined through tasks using YAML format and run Ansible Scripts to provision Dev servers.  
+
+
+Cleansing data generated from weblogs with automated scripts in python. 
+Developed Python codebase that generated Kubernetes config Files. 
+
+Developed testing infrastructure in Python to test database scaling. 
+Implemented Python tool for generating detail configuration reports on distributed scale-up scale-out server Nodes for converged server systems 
+
+
+Using Groovy, Java, Jenkins, python and expect utility designed and implemented one click 
+deployment to development, integration and QA environments. 
+
+
+Implemented various Docker containers for creating various environments to deploy the applications which reduces cost for the enterprise.
+Used Docker as a new level of simplicity to defining and creating applications or services by encapsulating them in containers
+
+
+Developed build and deployment scripts using ANT and MAVEN as build tools in Jenkins to move from one environment to other environments.
+Have written Jenkins File for Continuous Integration which pulls a Report Script of Python to monitor the services in the cluster. 
+Built new framework for system agent and different agent plugin. Used Gradle and Jenkins to trigger build process 
+
+
+Expertise in Configuring SVN distributed platform for multiple applications and automating builds using Jenkins or other tools and process for regulated SVN code control and builds. 
+
+
+Proficient in handling AWS (Amazon Web Services) Security Operations (SecOps).
+
+
+As a member of the SecOps team, I designed corporate security policy, helped implement different business and regulatory frameworks, performed security testing and code review, and provided advice on security tools and trends 
+
+Strong background in Linux administrations, DevOps, SecOps, Cloud Security, SQL and NoSQL knowledge.
+
+
+Build and Release Engineer for multiple project teams that involved different development teams and multiple simultaneous software releases. 
+• Setup and build AWS infrastructure Development and Operations involving various AWS Cloud resources VPC, EC2, S3, IAM, EBS, ELB, EBS, SES, Security Group, Auto Scaling, ElasticCache, CloudFront, CloudWatch, SNS and RDS in Cloud Formation JSON templates. 
+• Involved in designing and deploying multitude applications utilizing almost all the AWS stack (Including EC2, Route53, S3, RDS, Dynamo DB, SNS, SQS, IAM) focusing on high-availability, fault tolerance, and auto-scaling in AWS Cloud Formation. 
+• Creating S3 buckets and managing policies for S3 buckets and utilized S3 bucket and Glacier for storage and backup on AWS. 
+• Created Python scripts to automate AWS services which includes web servers, ELB, Cloudfront distribution, database, EC2 and database security groups, S3 bucket and application configuration, this script creates stacks, single servers or joins web servers to stacks. 
+• Created Cloud Formation templates and deployed AWS resources using it. 
+• Used Identity and Access Management (IAM) to assign roles and to create and manage AWS users, groups and use permissions to AWS resources. 
+• Worked on configuring S3 versioning and lifecycle policies to and backup files and archive files in glacier. 
+• Created monitors, alarms and notifications for EC2 hosts using CloudWatch. 
+• Created Snapshots and Amazon Machine Images (AMI's) of EC2 Instance for snapshots and creating clone's instances. 
+• Worked at optimizing volumes and AWS EC2 instances and created multiple VPC instances. 
+• Managed Elastic Cloud Computing (EC2) instances utilizing auto scaling, Elastic Load Balancing and Glacier for our QA and UAT environments as well as infrastructure servers for GIT and CHEF. 
+
+
+Configure virtual machines to run Docker and other software needed by developers. 
+Built additional Docker slave nodes for Jenkins using custom built Docker images and instances. 
+Worked with container-based deployments using Docker, working with Docker images,Docker hub, and Docker registries. 
+
+Responsible for proxy setup between Apache Server and Application Servers, Bonita and Tomcat.
+Bonita workflow configuration and scripting for service orchestration, workflows and calling external interfaces. 
+• Build and distribute Bonita deployment artifacts.
+
+Developed and demonstrated POC's on JBPM (BPMN2.0) and Bonita soft to provide process management features and tools in a way that both business users and developers like it. 
+
+
+Experience working with Jenkins Remote and Slave Machines for build process. 
+Administered the automatic build process to ensure correct build execution, and resolved the build issues.
+
+Assisted in several Load tests and gave suggestions at OS level tuning, also configured Weblogic and JBOSS Application servers to produce the best results. 
+Converted data sources from weblogic to Jboss 
+Extensive experience in configuring WebLogic Clusters (Horizontal and Vertical) for Load-balancing and Fail-over solutions. 
+Performed WebLogic Server Administration tasks such as Installation, Configuration, Monitoring, Performance Tuning and Load balancing. 
+
+
+Jenkins continuous integration server installation and configuration for all GIT Repositories.
+Hands on experience on remote tools SSH and Putty.   
+
+
+The architecture utilizes AWS platform offerings, Go Lang and Kafka for a high-throughput, highly-scalable event-driven messaging infrastructure. 
+
+Heavy focus on performance optimizations with Go-lang and security tools like nmap; took lead on building out different tools and automation using Go.
+
+Working on single client platform supported by around 9 other services, an internal API to connect them, and an external API for partners. It allows us to keep codebases smaller, optimize more specifically, and explore new technologies with isolation.  
+
+Designed and built docker migration strategies for all services (Go-Lang, Python Java)
+
+Worked on installation of Docker using Docker toolbox. Worked on creation of custom container images, tagging and pushing the images.
+Executed a Continuous Delivery pipeline with Docker, Jenkins, GitHub and AWS AMI's, results in generating of new docker container whenever a new github branch get started.  
+Wrote Splunk Dashboards to display Dynatrace data in stacked column and table form 
+Extensively involved in front end screens using Java, HTML 5, JavaScript ES6, JQuery, JSON, CSS and Ajax.
+Served the ELK stack community with use cases and logstash plugin and actively participated in blogs and Q and A’s. 
+Planning and design of ELK (Elastic Search, Logstash and Kibana) and worked on search API server and client for querying Elastic Search.
+Implemented a centralized logging system using log stash configured as an ELK stack (Elasticsearch, Log stash, and Kibana) to monitor system logs, AWS Cloud Watch, VPC Flow logs, CloudTrail Events, changes in S3 etc.
+Performed Log analysis using ELK stack and created monitoring charts
+Use Dynatrace to perform root cause analysis and quickly drill down to correct error fault path and hot spots.
+Maintain and administer dynaTrace systems monitoring critical application instances
+?	Implemented app logging service using logging tools, such as Splunk and developed and deployed stacks using AWS Cloud Formation templates 
+
+Create and Prepare an EC2 instance in AWS for Oracle Deployment and deploy Oracle 12c in EC2.
+Performance Monitoring, Tuning and query optimization for Oracle databases.
+Involved in Installing and configuring ranger for the authentication of users and Hadoop daemons.
+Responsible for day-to-day activities which include HDFS support and maintenance, Cluster maintenance, creation/removal of nodes, Cluster Monitoring/Troubleshooting, Manage and review Hadoop log files, Backup restoring and capacity planning. 
+
+
+
+
+
+Position: DevOps Engineer
+Location: Remote
+Duration: 6 months
+
+ 
+Job Qualifications:
+•       Bachelor’s degree in Computer Science or related field or 5 years documented work history as a DevOps engineer.
+•       Must have at least 2 years of experience as a Developer with general purpose programming language (i.e. Java, C++,C#, Python, Go,Ruby)
+•       At least 3 years’ experience as a DevOps build Engineer performing automated build and deployment of production applications.
+•       At least 3 years’ experience working in an agile environment.
+•       At least 1 year experience creating build and release definitions for using TFS 2013 or TFS 2015.
+•       Experience with build and release automation across the Microsoft stack to include web and windows services, web applications.
+•       Experience with scripting transformations of configuration files and custom deployment functions.
+
+
+
+
+Participated in various phases of SDLC (Software Development Life Cycle) like analyzing the requirement, design and development.
+Interacted with the system analysts, business users for design and requirement clarification.
+? Spring MVC Framework Inversion of Control (IOC) is used to have relationships between application components.
+? Designed REST web services from scratch and also consumed partner's web services.
+? Created connection pooling to get JDBC connection and access database.
+? Used Log4j as a debugging tool and control the version with Git.
+? Extensively used Tomcat server and Jboss application server for developing, building and testing the application.
+? Documented the flow and functionality of the code for further reference.
+5 years resume with developement background  
+
+
+Created RESTful web service interface to Java-based runtime engine.
+? Worked on core Java, multi- threading and collections.
+? Object oriented analysis, design (OOAD) and implementation using Java/ J2EE Technologies.
+? Developed persistence layer using JPA and implemented DAO to handle the database interaction.
+? Integrated Hibernate with Spring with configuring the Spring configuration file.
+
+
+Created POJO Beans to build data model and configured Hibernate Mapping files.
+? Designed and developed the core components of management for the service layer.
+? Created REST based web services using Spring MVC.
+? Implemented JMS and Message Driven Beans to process messages.
+? Extensively used Eclipse as an IDE for building, developing and integrating the application.
+
+Developed Spring Validator Interface for enterprise level validations and developed code for obtaining bean references in spring IoC framework and implemented Dependency Injection (DI/IoC).
+• Implemented Localization and Internationalization to adapt different locale Resource Bundles using Tiles framework.
+
+
+Installation and Configuration and Testing of Team Foundation Server (TFS) 2010, 2012&amp; 2013
+? Created new Build Definitions in TFS 2013 with executing PowerShell scripts for Post build
+events
+? Created new Projects templates Scrum 2.2 for TFS 2013 Team projects
+? Good experience on Databases and Migration from TFS 2008 to 2010, 2012 &amp; 2013
+
+TUGZ032
+ Built/monitored the CI/CD on GCP using Jenkins and Google shell commands.
+
+Provisioning environments for Engineering and QA as per the requirements and chasing timelines.
+? Hands-on experience with setting up Kubernetes (k8s) Clusters for running microservices. Pushed microservices into production with Kubernetes backed Infrastructure.
+? Designed, deployed, and maintenance of a full stack Kubernetes environment, running on Google Cloud Platform(GCP).
+? Very good understanding of Microservices architecture, adapting Industry best practices for Microservices while we break down existing apps into microservices.
+? Created dynamic routing/load balancing capability enabling large application scaling, used ingress rules and Ingress Controllers - Nginx.
+? Implemented a production ready, load balanced, highly available, fault tolerant, auto scaling Kubernetes - Google Cloud Platform infrastructure and microservices container orchestration.
+? Point team player on Kubernetes for creating new Projects, services for load balancing and adding them to Routes to be accessible from outside, creation of Pods through new application and control the scaling of pods, troubleshooting pods through ssh and stackdriver/splunk logs.
+? Orchestrated CI/CD processes by responding to GIT triggers, human input, and dependency chains and environment setup.
+? Provide the permissions and required access to all the pub/sub topics and sinks to push/write the data to Stackdriver.
+? Setup Alerting and monitoring using Stackdriver in GCP.
+? Create custom log metrics using Stackdriver logging and create charts and alerts using the custom log metrics.
+? Developed a continuous deployment pipeline using shell scripts in Jenkins.
+? Containerized all the ticketing related applications - Spring Boot Java and Node.js applications using Docker.
+? Working with engineering and upstream teams like OpenAPI on day-to-day environment issues on DEV and TEST environments.
+? Scheduled, deployed and managed container replicas onto a node cluster using Kubernetes.
+? Help provision and manage gcloud container clusters with Chef and Puppet.
+? Deployed microservices in Production environment.
+? Trained staff on Kubernetes administration.
+Create clusters in Google Cloud and manage the clusters using Kubernetes(k8s). Use Jenkins to deploy code to Google Cloud with new namespaces, create docker images and push them to container registry of Google Cloud.
+Worked with AWS Lambda function (JAVA 8) for building an architecture .
+? Worked on the flow of the logs through Kinesis to firehose to the ElasticSearch
+? Worked on different AWS Services like VPC, S3, IAM, AWS Lambda, Kinesis, ElasticSearch, CloudWatch,
+? Worked on building the test cases for the Lambda function by mocking different services.
+
+Hands on experience in using Google Stackdriver for monitoring the logs of both GKE and GCP instances and configured alerts from Stackdriver.
+Perform day-to-day operation and troubleshooting of VMs and Docker swarm in GCP.
+
+Installation and Configuration and Testing of Team Foundation Server (TFS) 2010, 2012&amp; 2013
+? Created new Build Definitions in TFS 2013 with executing PowerShell scripts for Post build
+events
+? Created new Projects templates Scrum 2.2 for TFS 2013 Team projects
+? Good experience on Databases and Migration from TFS 2008 to 2010, 2012 &amp; 2013
+
+Proficient in computer applications and scripting like Shell, Python, Ruby, Perl and XML.
+
+It is a fully managed cloud database and supports both document and key-value store models. Its flexible data model, reliable performance, and automatic scaling of throughput capacity make it a great fit for mobile, web, gaming, ad tech, IoT, and many other applications. Start today with the Getting Started Guide.
+
+Amazon DynamoDB Accelerator (DAX) is a fully managed, highly available, in-memory cache that can reduce DynamoDB response times from milliseconds to microseconds, even at millions of requests per second.
+
+
+
+Implemented a lightweight security vault based on AWS instance roles, Credstash and KMS, with a DynamoDB backend.
+
+Gained Hands on experience Configuring Access Lists for inbound and outbound traffic RDS DB services, Dynamo DB tables, EBS volumes; to set alarms for notification or automated actions and to monitor logs for a better understanding and operation of the system availability regions.
+Good experience with Dynamo DB and RedShift.
+
+
+Good understanding on integrating JIRA with other products such as Sales Force, Share Point, Microsoft office connector
+
+• Experience in writing JIRA API Tools to auto-move Service Desk tickets of one issue type to a JIRA project of another issue type and to extract the list of JIRA users with the respective JIRA Groups and project Roles.
+• Experienced in writing/building/integrating custom modules for JIRA/Confluence
+
+Created bitbucket repositories including merging and building feature branches
+
+Resolved issues as they arise with JIRA projects and Confluence on in co-ordination with Jira hosting partner team.
+Created a JIRA workflow and apply the condition, validators and post-functions in the transition to represent the business requirement process.
+Deployed and configured Atlassian tools like Jira, Confluence, Bitbucket, Bamboo for both hosting and issue tracking for local instances, workflow collaboration, and tool-chain automation.
+
+
+
+Administration of Bamboo. Implemented a Continuous delivery framework using Bamboo, Ansible, Maven and Oracle in Linux Environment.
+Manage Code Repository by, maintaining code repository in GIT, improve practices of branching and codemerge to custom needs of development team.
+Creation/setup of new branches, Codemerge based upon project requirements.
+Creation/setup of new branches, Codemerge based upon project requirements.
+
+Developed infrastructure as code with Terraform to deploy VMware and AWS
+infrastructure.
+? Converting existing AWS infrastructure to server less architecture (AWS Lambda)
+deployed via terraform or AWS Cloud formation.
+? Proficient with container systems like Docker and container orchestration like EC2
+Container Service, worked with Terraform.
+
+
+Monitoring system activities and fine-tuning system parameters and configurations to optimize
+performance and ensuring security of systems
+• Install, configure, and troubleshoot enterprise-wide Apache web servers and Tomcat application
+containers in a large Red Hat /CentOS environment
+• Deploy, upgrade, and maintain application and web servers
+• Designing Firewall rules for new servers to enable communication with application
+• Setting up network environments using TCP/IP, NIS, NFS, DNS, VSFTP and DHCP
+
+
+5+ years of practical administration experience in Linux (RHEL, CentOS, Ubuntu) as a server platform. 
+4+ years of practical experience in building CI pipelines and automation tools.
+Experience in writing web-oriented microservices used for supporting CI process.
+Solid experience in automation of routine tasks with shell scripting (BASH) and Python.
+Strong understanding of network architecture principles and TCP/IP network protocols stack.
+ 
